@@ -1,0 +1,211 @@
+Yiyecek adı,Miktar (1 porsiyon) gram,Kap Numarası,Renk,"Kıvam ","Fiyat ",Enerji,Protein,"Yağ ",Karbonhidrat,Lif
+Et haşlama,100,1,Kahverengi,Yumuşak,a,137.4,13.5,8.9,0.8,0.2
+Et kızartma,150,1,Kahverengi,Katı,a,257.8,42.5,9.6,0,0
+Rosto et(patatesli),160,1,kahverengi,katı,a,193.1,16.6,8.3,12.4,1
+Misket köfte,150,1,kahverengi,yumuşak,b,303.3,29.5,20.4,0.7,0
+Fırın Köfte,150,1,kırmızı,katı,b,279.6,23.3,14.6,13.7,1.2
+Kadınbudu Köfte,100,1,kahverengi,katı,b,176.6,9.5,12.2,7.5,0.4
+Terbiyeli Köfte,250,1,kırmızı,yumuşak,b,390.2,26.2,24.3,16.6,1.1
+İzmir Köfte,180,1,kahverengi,katı,b,264.6,15.6,12.7,21.4,1.7
+Tekirdağ köfte,100,1,kahverengi,katı,b,184.5,16.8,11,4.7,0.6
+Hindi Izgara Köfte,100,1,kahverengi,katı,d,107.3,17.7,2.3,3.8,0.4
+Kaşarlı köfte,150,1,kahverengi,katı,b,339.5,25.8,24.4,4.6,0.5
+Sulu köfte,180,1,kırmızı,yumuşak,b,219.4,17.5,11.8,10.9,1.3
+Çiftlik köfte,190,1,kahverengi,katı,b,251.1,14.7,11.9,20.9,2.8
+Izgara Köfte,100,1,kahverengi,katı,b,199.8,16.2,12.3,6.2,0.5
+Döner kebap,300,1,kahverengi,katı,a,342,18.4,9.8,44.2,2
+Cağ Kebabı,100,1,kahverengi,katı,a,302.3,21.1,24.2,0,0
+Bahçıvan Kebabı,250,1,kırmızı,yumuşak,a,283.2,26,14.1,12.6,2.3
+Patlıcan kebabı,150,1,kırmızı,katı,a,171.7,11.7,12.9,2.3,1.2
+Ciğer Tas Kebabı,120,1,kahverengi,katı,a,189.9,11.6,11.2,10.6,0.7
+İskender Kebabı,300,1,kahverengi,katı,a,522.7,25.7,24.7,48.2,3.7
+Orman Kebabı,150,1,kırmızı,yumuşak,a,199.3,11.7,13.5,7.7,1.5
+Tas kebabı,100,1,kahverengi,yumuşak,a,138.6,9.8,8,6.7,0.7
+Tandır kebabı,150,1,kahverengi,katı,a,293.6,22.5,22.4,1,0.2
+Tavuk Şiş Kebap,300,1,beyaz,katı,d,304,41.6,13.3,4.2,1.5
+Kuzu Şiş Kebap,300,1,kahverengi,katı,a,375.7,21.3,24.6,17.6,3.1
+Kuzu Pirzola,120,1,kahverengi,katı,a,316.1,30.1,21.9,0,0
+Tavuk Pane,100,1,sarı,katı,d,207.2,16,7.5,18.7,1.1
+Tavuk Haşlama,100,1,beyaz,katı,d,188.3,25.9,9.4,0,0
+Tavuk Göğüs Şinitzel,100,1,sarı,katı,d,207.2,16,7.5,18.7,1.1
+Tavuk Kanat (ızgara),120,1,kahverengi,katı,d,273.6,26.1,19,0,0
+Buğu kebabı,250,1,kahverengi,katı,a,320.9,24.4,23.1,4,1.7
+Tavuk ciğeri,90,1,kahverengi,katı,d,142.7,22.9,5,1.3,0
+Fırında tavuk,200,1,kahverengi,katı,d,211.8,37.6,6.4,0.5,0
+Kremalı Mantarlı Tavuk,180,1,sarı,katı,d,185,27.6,6.8,3.2,1
+Köri SosluTavuk,180,1,sarı,katı,d,229.7,26.2,10.8,6.8,0.3
+Sebzeli Tavuk Sote,180,1,kırmızı,katı,d,110.6,16,2,6.6,2
+Tavuk sote,180,1,kahverengi,katı,d,105,19.4,0.8,4.5,1.6
+Hamsi tava,150,1,kahverengi,katı,d,180.3,35.5,4.1,0,0
+Fırında Levrek,150,1,beyaz,katı,d,140.2,31.6,1.3,0,0
+Patatesli Yumurta,140,1,sarı,katı,c,146.2,7.7,6.3,14.1,1.2
+Menemen,180,1,kırmızı,yumuşak,c,216,8.4,18.5,4.1,1.3
+Etli Kış Türlüsü,180,1,kırmızı,yumuşak,c,150.6,9.3,8.2,9.7,3.2
+Etli Yaz Türlüsü,180,1,kırmızı,yumuşak,c,134.2,8.5,7.3,8.4,2
+Etli Bamya,200,1,kırmızı,yumuşak,c,127.6,9.8,8.5,2.8,1.7
+Etli Taze Fasulye,180,1,kırmızı,yumuşak,c,122.2,9.2,6.6,6.3,2.4
+Hünkar Beğendi,300,1,kırmızı,yumuşak,b,299.7,19.9,21,7.9,2.6
+Sebzeli Etli Güveç,250,1,kırmızı,yumuşak,b,143.4,14.7,4.3,10.8,3
+Patlıcan Musakka,180,1,kahverengi,yumuşak,c,144.6,7.4,11,4,2
+Karnıyarık,180,1,kahverengi,yumuşak,c,160.5,7.5,12.7,4.1,2.1
+Kıymalı Ispanak,180,1,yeşil,yumuşak,c,128.2,8.9,7.3,6.1,1.6
+Kıymalı Bezelye,180,1,kırmızı,yumuşak,c,208.2,15.3,8.7,16.7,6.6
+Kıymalı Karnabahar,180,1,kırmızı,yumuşak,c,134.7,10.4,8.7,3.6,3.9
+Kıymalı Kapuska,180,1,kırmızı,yumuşak,c,137.2,9,8.5,6,4.1
+Kıymalı Patates,180,1,kahverengi,katı,c,202.6,10.2,8.9,19.7,1.8
+Etli Nohut,200,1,kırmızı,yumuşak,c,211.3,14.9,9.3,16.6,9.1
+Etli Kuru Fasulye,200,1,kırmızı,yumuşak,c,208.9,15.5,8.5,17.3,3.3
+"Etli Bamya ",200,1,kırmızı,yumuşak,c,127.6,9.8,8.5,2.8,1.7
+Kıymalı Kabak Dolması,200,1,yeşil,katı,c,145.8,9.9,7.3,9.9,1.7
+Kıymalı Biber Dolması,200,1,yeşil,katı,c,183.1,11.7,9.5,12.1,1.6
+Etli Domates Dolması,225,1,kırmızı,katı,c,162.4,5.6,3.3,27,1.6
+Etli lahana sarma,120,1,kırmızı,katı,c,131.6,2.1,7.2,14.7,2.1
+Kıymalı Yaprak Sarma,100,1,yeşil,katı,c,128.6,8.5,7.8,6.4,0.7
+Şehriyeli Güveç,200,1,kahverengi,katı,c,291.1,20.9,13.7,21,1.6
+İçli Köfte,100,1,kahverengi,katı,c,99.9,4.6,3.7,11.8,1.9
+Patates Köftesi,100,1,kahverengi,katı,b,137.2,4.4,6.3,15.2,1.3
+Rulo Köfte,180,1,kahverengi,katı,b,252.1,22,12.7,12.2,2.3
+"Şiş Köfte ",150,1,kahverengi,katı,b,294,25.3,19.2,5.3,0.6
+Saç Kavurma,120,1,kahverengi,katı,b,166.6,12.5,12.1,1.9,0.7
+Kağıt Kebabı,300,1,kahverengi,katı,a,211.5,25.2,8.4,8.1,3.5
+Kuzu Kapama,250,1,kahverengi,katı,a,415.3,31.2,30.6,4.2,1.7
+Kremalı Domates Çorbası,200,2,kırmızı,sıvı,e,103.3,2,7.6,6.7,2
+Tavuklu Şehriye Çorbası,200,2,beyaz,sıvı,e,99.4,7.3,5.8,4.5,0.3
+Tavuk Etli Çorba,200,2,beyaz,sıvı,e,171.6,12.5,10.3,6.4,0.5
+Mercimek Çorbası,200,2,kahverengi,sıvı,e,103.3,7.7,3.3,10.3,3.2
+Bezelye Çorbası,200,2,yeşil,sıvı,e,126.7,5.9,7.7,8.3,3.1
+Domatesli Pirinç Çorbası,200,2,kırmızı,sıvı,e,82.2,1.2,4.4,9.3,0.8
+Düğün Çorbası,200,2,beyaz,sıvı,e,132.4,8.3,6.8,9.5,0.4
+Ezogelin Çorbası,200,2,kırmızı,sıvı,e,132.4,4.6,6,14.9,2.6
+Sebze Çorbası,200,2,yeşil,sıvı,e,123.3,3.3,7.4,10.8,1
+İşkembe Çorbası,200,2,beyaz,sıvı,e,99.9,7.9,6.1,2.9,0.1
+Patates Çorbası,200,2,beyaz,sıvı,e,93.7,1.2,5.6,9.2,0.8
+Un Çorbası,200,2,beyaz,sıvı,e,142.4,2.1,8.8,13.9,0.7
+Yayla Çorbası,200,2,beyaz,sıvı,e,94.2,2.8,4.9,9.7,0.3
+Yeşil Mercimek Çorbası,200,2,yeşil,sıvı,e,139.6,6,6,15.2,2
+Yoğurt Çorbası,200,2,beyaz,sıvı,e,190.2,5.2,16.3,5.5,0.1
+Balık Çorbası,200,2,beyaz,sıvı,e,86,11.2,2.2,5.1,1.3
+Bulgur Çorbası,200,2,kahverengi,sıvı,e,97,1.9,4.6,11.8,2.4
+Domates Çorbası,200,2,kırmızı,sıvı,e,148.7,3.4,8.6,14.3,1.5
+Ekşili Çorba,200,2,kahverengi,sıvı,e,106.1,4.2,4.3,12.4,3.3
+Kelle Paça Çorbası,200,2,beyaz,sıvı,e,121.9,6.1,9.9,2.1,0.1
+Kremalı Mantar Çorbası,200,2,beyaz,sıvı,e,115.2,6.5,6.5,7.5,1.8
+Nohutlu Pirinç Çorbası,200,2,beyaz,sıvı,e,141,5.7,3,22.4,5
+Salçalı Pirinç Çorbası,200,2,kırmızı,sıvı,e,86,1,4.9,9.5,0.4
+Pirinçli Kabak Çorba,200,2,yeşil,sıvı,e,89.4,3.6,4.5,8.4,1
+Sütlü Arpa Şehriye Çorbası,200,2,beyaz,sıvı,e,74.1,2.6,3.1,9,0.6
+Tarhana Çorbası,200,2,kırmızı,sıvı,e,134.8,23.3,1.8,6,0.5
+Yulaf Özü Çorbası,200,2,beyaz,sıvı,e,79.3,3.9,4.1,6.7,0.6
+Şehriye Çorbası,200,2,beyaz,sıvı,e,93.7,1.8,5.3,9.5,0.9
+Ispanaklı Lahana Çorbası,200,2,yeşil,sıvı,e,34.4,3,0.2,5,1.3
+Sebzeli Kırmızı Mercimek Çorbası,200,2,kahverengi,sıvı,e,125.2,4.9,5.5,13.8,2.9
+Puf Böreği,50,2,sarı,katı,e,264.8,5.5,19.3,17.6,0.6
+Serpme Börek,100,2,sarı,katı,e,204.8,3.7,15.7,12.5,0.6
+Patatesli Börek,125,2,sarı,katı,e,297,7.1,13.7,35.7,1.9
+Peynirli Börek,70,2,sarı,katı,e,194.6,6.5,10.7,18,0.9
+"Peynirli Yufka Böreği ",70,2,sarı,katı,e,161.4,5.8,7.8,16.6,1.1
+Ispanaklı Yufka Böreği,70,2,sarı,katı,e,102.2,3.1,4.7,11.7,1.1
+Gülböreği,100,2,sarı,katı,e,132.4,5.3,6.4,13.1,0.8
+Peynirli Su Böreği,70,2,sarı,katı,e,95,2.2,4.9,10.5,0.5
+Talaş Böreği,50,2,sarı,katı,e,100.3,2,7.7,6,0.3
+Kıymalı Tepsi Böreği,50,2,sarı,katı,e,100.5,3.6,4.4,11.4,0.7
+Peynirli Sigara Böreği,120,2,sarı,katı,e,138.2,8.7,9,5.4,0.3
+Nohutlu Bulgur Pilavı,150,2,kırmızı,katı,e,96.4,2.3,4.2,12.3,2.6
+Pirinç Pilavı,150,2,beyaz,katı,e,166.3,2.3,6.5,24.5,0.7
+Bulgur pilavı,150,2,kırmızı,katı,e,142,2.8,5.1,21.1,3.2
+Buhara Pilavı,150,2,kahverengi,katı,e,124.8,3.9,4.8,16.4,0.6
+Büryan Pilavı,150,2,beyaz,katı,e,164.2,6.8,7.5,17.2,0.7
+Domatesli Pilav,150,2,kırmızı,katı,e,117.9,2.6,1,24.2,1.2
+Havuçlu Pilav,150,2,beyaz,katı,e,124,2.5,1.2,25.5,0.9
+İç Pilav,150,2,beyaz,katı,e,213.7,5.5,7.5,30.6,1.2
+Sebzeli Pilav,150,2,beyaz,katı,e,156,5.2,2.2,28.3,3.3
+Şehriye Pilavı,150,2,kahverengi,katı,e,171.7,2.7,6.6,25.3,0.9
+Şehriyeli Pirinç Pilavı,150,2,beyaz,katı,e,202.2,3.7,5.3,34.5,1.2
+Zeytinyağlı Biber Dolma,200,2,yeşil,katı,e,176.4,2.9,8.4,21.7,1.9
+Zeytinyağlı Yaprak Sarma,100,2,yeşil,katı,e,110.2,2.3,5.5,12.9,1
+Zeytinyağlı Taze Fasulye,120,2,yeşil,yumuşak,e,84.3,2.3,5.9,5.4,2
+Zeytinyağlı Bakla,120,2,yeşil,yumuşak,e,148,7.1,7.1,13.5,3.3
+Zeytinyağlı Pırasa,120,2,beyaz,yumuşak,e,96.1,2.1,6.4,7.4,2.3
+Zeytinyağlı Kereviz,120,2,beyaz,yumuşak,e,97.8,1.9,8.1,4.3,4.2
+Zeytinyağlı Barbunya,120,2,kahverengi,yumuşak,e,153.4,2.9,11.6,9.2,3.1
+Zeytinyağlı Enginar,160,2,beyaz,yumuşak,e,162.1,3.1,11.7,10.6,8.1
+Zeytinyağlı Mantar,160,2,kahverengi,yumuşak,e,94.1,4.2,6.9,4,3.5
+Sebze Kızartması,100,2,yeşil,katı,e,97.5,1.3,9.3,2.3,1.4
+Sebze Yemeği,180,2,kırmızı,yumuşak,e,131.6,3.9,5.4,16.3,4
+Fırında Makarna,250,2,sarı,katı,e,305.3,12.2,12.7,35.3,2.3
+Sade Makarna,200,2,sarı,katı,e,199.3,5.5,6.1,30.2,2.6
+Kaşar Peynirli Makarna,200,2,sarı,katı,e,254.8,8.4,9.6,33.3,2.4
+Domates Soslu Makarna,200,2,kırmızı,katı,e,262.4,12.2,9,32.4,3
+Havuç Soslu Makarna,200,2,sarı,katı,e,252.9,7.2,9.2,34.7,3.3
+Mantar Soslu Makarna,200,2,sarı,katı,e,276.8,7.7,9.6,39.3,3.5
+Patlıcan Soslu Makarna,200,2,sarı,katı,e,231.4,6.4,7.9,33.2,3.3
+Erişte,125,2,sarı,katı,e,325.3,11.5,3.6,60.7,3.4
+Mantar Sote,180,2,kahverengi,yumuşak,e,74,4.9,3.6,5.2,3.5
+Milföy Böreği,35,2,sarı,katı,e,131.3,2,8.2,12.4,0.8
+İmambayıldı,180,2,kırmızı,katı,e,140.7,2.1,12.6,4.8,2.4
+Mercimekli Kabak Yemeği,180,2,yeşil,yumuşak,e,143.7,6.8,6.8,13.4,3.3
+Sebze Graten,180,2,yeşil,katı,e,242.6,9,21.1,4.4,1.1
+Zeytinyağlı Fava,60,2,beyaz,katı,e,54.6,4.1,2.2,4.5,4.4
+Kabak Bayıldı,180,2,yeşil,katı,e,145,3,12.7,4.5,2
+Kabak Kalye,180,2,yeşil,yumuşak,e,128.2,8.8,7.9,5,1.1
+Patlıcan Musakka.1,180,2,kahverengi,yumuşak,e,144.6,7.4,11,4,2
+Domatesli Patlıcan Salatası,150,3,kırmızı,yumuşak,e,119.7,1.7,10.5,4.5,2
+Domates Salatası,100,3,kırmızı,yumuşak,e,74.3,0.9,6.6,2.5,1.2
+Havuç Salatası,100,3,turuncu,katı,e,78.2,0.8,5.5,6.1,2.7
+Mevsim Salata,100,3,yeşil,katı,e,68.1,1,6.1,2.1,1.1
+Kırmızı Lahana Salatası,100,3,kırmızı,katı,e,77.4,1.3,6.4,3.3,2.2
+Kıvırcık Salatası,100,3,yeşil,katı,e,60.5,1.6,5.3,1.3,1.7
+Marul Salatası,60,3,yeşil,katı,e,34.8,0.9,2.9,1,0.7
+Patates Salatası,100,3,sarı,katı,e,121.2,1.7,7.1,12.1,1.4
+Amerikan Salatası,100,3,beyaz,yumuşak,e,46.6,1.5,1.5,6.4,2.2
+Yoğurtlu Semizotu Salatası,100,3,beyaz,yumuşak,e,46.4,2.9,2.3,3.1,1
+Börülce Salatası,50,3,yeşil,katı,e,57,4.3,0.8,7.9,1.6
+Gavurdağı Salatası,100,3,kırmızı,katı,e,145.8,2.5,12,7,2
+HavuçTurp Salatası,100,3,turuncu,katı,e,49.5,1,3,3.8,1.7
+Mercimek Salatası,100,3,yeşil,katı,e,140.8,7,4.2,18.4,3.8
+Yoğurtlu Kereviz Salatası,150,3,beyaz,yumuşak,e,44.1,2.9,1.6,4,4.4
+Çoban Salata,150,3,kırmızı,katı,e,62.7,1.2,4.5,4,1.7
+Elma Kompostosu,150,3,beyaz,sıvı,e,288.2,0.3,0,70.4,1.9
+Kuru Kayısı Hoşafı,150,3,sarı,sıvı,e,247,1.7,0.2,57.1,6
+Kuru Erik Hoşafı,150,3,sarı,sıvı,e,240.2,0.8,0.2,57,6.1
+Vişne Kompostosu,150,3,kırmızı,sıvı,e,241.3,0.9,0.5,56.3,1.1
+Şeftali Kompostosu,150,3,sarı,sıvı,e,280,0.7,0.1,67.9,1.5
+Yoğurt,200,3,beyaz,yumuşak,e,138.1,7.8,7.5,8.7,0
+Cacık,200,3,beyaz,yumuşak,e,142.4,5.5,10,6.9,0.6
+Piyaz,150,3,beyaz,katı,e,135.2,9.2,4.1,14.9,3.6
+Kırmızı Elma,120,3,kırmızı,katı,e,73.1,0.4,0.1,17.2,2.4
+Yeşil Elma,120,3,"yeşil ",katı,e,73.1,0.4,0.1,17.2,2.4
+Tarbzon hurması,100,3,turuncu,katı,e,71,0.6,0.3,16,2.5
+Armut,125,3,beyaz,katı,e,65.1,0.6,0.4,15.5,3.5
+Muz,140,3,sarı,katı,e,84,1.1,0.2,18.8,1.9
+Şeftali,185,3,turuncu,katı,e,75.6,1.4,0.2,16.4,3.1
+Portakal,140,3,turuncu,katı,e,60.6,1.4,0.3,11.6,3.1
+Mandalina,150,3,turuncu,katı,e,75.3,1,0.5,15.2,2.6
+Üzüm,150,3,yeşil,katı,e,104.3,1,0.4,22.9,2.4
+Karpuz,150,3,kırmızı,katı,e,57.4,0.9,0.3,12.4,0.4
+kavun,220,3,sarı,katı,e,110.4,1.8,0.2,24.8,1.5
+Mürdüm Eriği,175,3,kırmızı,katı,e,75.7,1.1,0.2,15.4,4
+Fıstıklı Tel Kadayıf,100,3,kahverengi,katı,e,332.7,3.8,12.6,50.6,1.5
+Cevizli Kadayıf,100,3,kahverengi,katı,e,410.4,5.5,14.4,64.1,1.8
+Lokma,90,3,kahverengi,katı,e,204.1,2,6,35.2,0.4
+Şekerpare,100,3,kahverengi,katı,e,160.6,2.1,7,22.2,0.5
+Revani,100,3,sarı,katı,e,291.1,3.6,7.1,52.5,1.6
+Yoğurt Tatlısı,100,3,sarı,katı,e,149.1,3.4,1.7,29.7,1.3
+Kalburabastı,150,3,kahverengi,katı,e,254.9,2.3,12.5,33.1,0.6
+Baklava,150,3,kahverengi,katı,e,194.8,3.6,11.2,20,1
+Ayva Tatlısı,150,3,kırmızı,katı,e,199.3,1.3,5.6,35,5.5
+Balkabağı Tatlısı,100,3,turuncu,katı,e,136,1.6,3.7,23.7,1.8
+Hamur Tatlısı,150,3,kahverengi,katı,e,226.6,3.8,2.7,46.2,0.8
+Sütlü İrmik Tatlısı,100,3,beyaz,yumuşak,e,78.5,0.7,0.1,18.5,0.5
+İrmik Helvası,100,3,kahverengi,yumuşak,e,309.8,3.5,12.9,44.6,2.2
+Tahin Helvası,35,3,kahverengi,katı,e,151.9,3.6,7.5,19.8,1.4
+Tulumba Tatlısı,90,3,kahverengi,katı,e,140.7,2.9,6.7,17.3,0.4
+Muhallebi,200,3,beyaz,yumuşak,e,190.7,5.1,4.9,31.3,0.2
+Sütlaç,200,3,beyaz,yumuşak,e,229.4,5,5.1,40.3,0.2
+Keşkül,200,3,beyaz,yumuşak,e,173.5,2.1,4.9,30,1.2
+Kazandibi,200,3,kahverengi,yumuşak,e,277.2,4.5,5.1,52.7,0.2
+Aşure,200,3,kahverengi,yumuşak,e,369,7.5,5.2,71.3,8.3
+Pelte,150,3,beyaz,yumuşak,e,301.1,0.9,0.2,71.7,0.4
+Salatalık turşusu,100,3,yeşil,katı,e,6.9,0.3,0.1,0.9,0.4
+Lahana Turşusu,150,3,beyaz,katı,e,23.7,2.1,0.4,0.9,3
+Kakaolu Puding,150,3,kahverengi,yumuşak,e,164.2,4.2,4.7,26,0.1

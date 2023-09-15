@@ -1,0 +1,254 @@
+1. Hafta Menüleri
+
+1. Gün Menüsü:
+MAIN: ID: 22, Yemek: Tas kebabı, Fiyat: a
+SOUP: ID: 99, Yemek: Ispanaklı Lahana Çorbası, Fiyat: e
+HALF_MAIN: ID: 110, Yemek: Kıymalı Tepsi Böreği, Fiyat: e
+DESSERT_SALAD: ID: 208, Yemek: Salatalık turşusu, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 444.6
+Karbonhidrat: 50.0
+Protein: 20.9
+Yağ: 17.4
+Lif: 3.2
+---
+2. Gün Menüsü:
+MAIN: ID: 18, Yemek: Patlıcan kebabı, Fiyat: a
+SOUP: ID: 95, Yemek: Sütlü Arpa Şehriye Çorbası, Fiyat: e
+HALF_MAIN: ID: 112, Yemek: Nohutlu Bulgur Pilavı, Fiyat: e
+DESSERT_SALAD: ID: 184, Yemek: Karpuz, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 399.6
+Karbonhidrat: 36.0
+Protein: 17.5
+Yağ: 20.500000000000004
+Lif: 4.8
+---
+3. Gün Menüsü:
+MAIN: ID: 3, Yemek: Rosto et(patatesli), Fiyat: a
+SOUP: ID: 76, Yemek: Domatesli Pirinç Çorbası, Fiyat: e
+HALF_MAIN: ID: 115, Yemek: Buhara Pilavı, Fiyat: e
+DESSERT_SALAD: ID: 157, Yemek: Marul Salatası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 434.9
+Karbonhidrat: 39.099999999999994
+Protein: 22.6
+Yağ: 20.4
+Lif: 3.0999999999999996
+---
+4. Gün Menüsü:
+MAIN: ID: 19, Yemek: Ciğer Tas Kebabı, Fiyat: a
+SOUP: ID: 93, Yemek: Salçalı Pirinç Çorbası, Fiyat: e
+HALF_MAIN: ID: 124, Yemek: Zeytinyağlı Yaprak Sarma, Fiyat: e
+DESSERT_SALAD: ID: 161, Yemek: Börülce Salatası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 443.1
+Karbonhidrat: 40.9
+Protein: 19.2
+Yağ: 22.4
+Lif: 3.6999999999999997
+---
+5. Gün Menüsü:
+MAIN: ID: 1, Yemek: Et haşlama, Fiyat: a
+SOUP: ID: 81, Yemek: Patates Çorbası, Fiyat: e
+HALF_MAIN: ID: 113, Yemek: Pirinç Pilavı, Fiyat: e
+DESSERT_SALAD: ID: 163, Yemek: HavuçTurp Salatası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 446.90000000000003
+Karbonhidrat: 38.3
+Protein: 18.0
+Yağ: 24.0
+Lif: 3.3999999999999995
+---
+
+
+2. Hafta Menüleri
+
+1. Gün Menüsü:
+MAIN: ID: 21, Yemek: Orman Kebabı, Fiyat: a
+SOUP: ID: 97, Yemek: Yulaf Özü Çorbası, Fiyat: e
+HALF_MAIN: ID: 117, Yemek: Domatesli Pilav, Fiyat: e
+DESSERT_SALAD: ID: 166, Yemek: Çoban Salata, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 459.20000000000005
+Karbonhidrat: 42.6
+Protein: 19.4
+Yağ: 23.1
+Lif: 5.0
+---
+2. Gün Menüsü:
+MAIN: ID: 47, Yemek: Sebzeli Etli Güveç, Fiyat: b
+SOUP: ID: 98, Yemek: Şehriye Çorbası, Fiyat: e
+HALF_MAIN: ID: 108, Yemek: Peynirli Su Böreği, Fiyat: e
+DESSERT_SALAD: ID: 175, Yemek: Kırmızı Elma, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 405.2
+Karbonhidrat: 48.0
+Protein: 19.1
+Yağ: 14.600000000000001
+Lif: 6.800000000000001
+---
+3. Gün Menüsü:
+MAIN: ID: 65, Yemek: Patates Köftesi, Fiyat: b
+SOUP: ID: 94, Yemek: Pirinçli Kabak Çorba, Fiyat: e
+HALF_MAIN: ID: 132, Yemek: Sebze Kızartması, Fiyat: e
+DESSERT_SALAD: ID: 178, Yemek: Armut, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 389.19999999999993
+Karbonhidrat: 41.4
+Protein: 9.9
+Yağ: 20.5
+Lif: 7.2
+---
+4. Gün Menüsü:
+MAIN: ID: 6, Yemek: Kadınbudu Köfte, Fiyat: b
+SOUP: ID: 83, Yemek: Yayla Çorbası, Fiyat: e
+HALF_MAIN: ID: 128, Yemek: Zeytinyağlı Kereviz, Fiyat: e
+DESSERT_SALAD: ID: 209, Yemek: Lahana Turşusu, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 392.3
+Karbonhidrat: 22.4
+Protein: 16.3
+Yağ: 25.6
+Lif: 7.9
+---
+5. Gün Menüsü:
+MAIN: ID: 68, Yemek: Saç Kavurma, Fiyat: b
+SOUP: ID: 87, Yemek: Bulgur Çorbası, Fiyat: e
+HALF_MAIN: ID: 127, Yemek: Zeytinyağlı Pırasa, Fiyat: e
+DESSERT_SALAD: ID: 176, Yemek: Yeşil Elma, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 432.79999999999995
+Karbonhidrat: 38.3
+Protein: 16.9
+Yağ: 23.200000000000003
+Lif: 7.799999999999999
+---
+
+
+3. Hafta Menüleri
+
+1. Gün Menüsü:
+MAIN: ID: 9, Yemek: Tekirdağ köfte, Fiyat: b
+SOUP: ID: 89, Yemek: Ekşili Çorba, Fiyat: e
+HALF_MAIN: ID: 125, Yemek: Zeytinyağlı Taze Fasulye, Fiyat: e
+DESSERT_SALAD: ID: 159, Yemek: Amerikan Salatası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 421.5
+Karbonhidrat: 28.900000000000002
+Protein: 24.8
+Yağ: 22.7
+Lif: 8.1
+---
+2. Gün Menüsü:
+MAIN: ID: 13, Yemek: Çiftlik köfte, Fiyat: b
+SOUP: ID: 82, Yemek: Un Çorbası, Fiyat: e
+HALF_MAIN: ID: 147, Yemek: Zeytinyağlı Fava, Fiyat: e
+DESSERT_SALAD: ID: 186, Yemek: Mürdüm Eriği, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 523.8
+Karbonhidrat: 54.699999999999996
+Protein: 22.0
+Yağ: 23.1
+Lif: 11.899999999999999
+---
+3. Gün Menüsü:
+MAIN: ID: 14, Yemek: Izgara Köfte, Fiyat: b
+SOUP: ID: 79, Yemek: Sebze Çorbası, Fiyat: e
+HALF_MAIN: ID: 118, Yemek: Havuçlu Pilav, Fiyat: e
+DESSERT_SALAD: ID: 155, Yemek: Kırmızı Lahana Salatası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 524.5
+Karbonhidrat: 45.8
+Protein: 23.3
+Yağ: 27.299999999999997
+Lif: 4.6
+---
+4. Gün Menüsü:
+MAIN: ID: 12, Yemek: Sulu köfte, Fiyat: b
+SOUP: ID: 78, Yemek: Ezogelin Çorbası, Fiyat: e
+HALF_MAIN: ID: 109, Yemek: Talaş Böreği, Fiyat: e
+DESSERT_SALAD: ID: 198, Yemek: Sütlü İrmik Tatlısı, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 530.6
+Karbonhidrat: 50.3
+Protein: 24.799999999999997
+Yağ: 25.6
+Lif: 4.7
+---
+5. Gün Menüsü:
+MAIN: ID: 8, Yemek: İzmir Köfte, Fiyat: b
+SOUP: ID: 88, Yemek: Domates Çorbası, Fiyat: e
+HALF_MAIN: ID: 106, Yemek: Ispanaklı Yufka Böreği, Fiyat: e
+DESSERT_SALAD: ID: 165, Yemek: Yoğurtlu Kereviz Salatası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 559.6
+Karbonhidrat: 51.39999999999999
+Protein: 25.0
+Yağ: 27.6
+Lif: 8.7
+---
+
+
+4. Hafta Menüleri
+
+1. Gün Menüsü:
+MAIN: ID: 49, Yemek: Karnıyarık, Fiyat: c
+SOUP: ID: 90, Yemek: Kelle Paça Çorbası, Fiyat: e
+HALF_MAIN: ID: 142, Yemek: Mantar Sote, Fiyat: e
+DESSERT_SALAD: ID: 177, Yemek: Tarbzon hurması, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 427.4
+Karbonhidrat: 27.4
+Protein: 19.1
+Yağ: 26.5
+Lif: 8.2
+---
+2. Gün Menüsü:
+MAIN: ID: 42, Yemek: Etli Kış Türlüsü, Fiyat: c
+SOUP: ID: 72, Yemek: Tavuklu Şehriye Çorbası, Fiyat: e
+HALF_MAIN: ID: 143, Yemek: Milföy Böreği, Fiyat: e
+DESSERT_SALAD: ID: 181, Yemek: Portakal, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 441.9
+Karbonhidrat: 38.2
+Protein: 20.0
+Yağ: 22.5
+Lif: 7.4
+---
+3. Gün Menüsü:
+MAIN: ID: 60, Yemek: Etli Domates Dolması, Fiyat: c
+SOUP: ID: 75, Yemek: Bezelye Çorbası, Fiyat: e
+HALF_MAIN: ID: 131, Yemek: Zeytinyağlı Mantar, Fiyat: e
+DESSERT_SALAD: ID: 154, Yemek: Mevsim Salata, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 451.3
+Karbonhidrat: 41.400000000000006
+Protein: 16.700000000000003
+Yağ: 24.0
+Lif: 9.299999999999999
+---
+4. Gün Menüsü:
+MAIN: ID: 64, Yemek: İçli Köfte, Fiyat: c
+SOUP: ID: 91, Yemek: Kremalı Mantar Çorbası, Fiyat: e
+HALF_MAIN: ID: 120, Yemek: Sebzeli Pilav, Fiyat: e
+DESSERT_SALAD: ID: 160, Yemek: Yoğurtlu Semizotu Salatası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 417.5
+Karbonhidrat: 50.7
+Protein: 19.2
+Yağ: 14.7
+Lif: 7.999999999999999
+---
+5. Gün Menüsü:
+MAIN: ID: 50, Yemek: Kıymalı Ispanak, Fiyat: c
+SOUP: ID: 74, Yemek: Mercimek Çorbası, Fiyat: e
+HALF_MAIN: ID: 114, Yemek: Bulgur pilavı, Fiyat: e
+DESSERT_SALAD: ID: 156, Yemek: Kıvırcık Salatası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 434.0
+Karbonhidrat: 38.8
+Protein: 21.0
+Yağ: 21.0
+Lif: 9.7
+---
