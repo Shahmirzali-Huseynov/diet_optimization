@@ -597,3 +597,13 @@ Protein: 16.5
 Yağ: 24.200000000000003
 Lif: 4.6000000000000005
 ---
+
+
+
+birde kodda suanda en ucuz yemekleri bulmuyor gibi 1ci gun b 2ci gun a 3cu gun e fiyat var 
+
+price_conversion = {'a': 5, 'b': 4, 'c': 3, 'd': 2, 'e': 1}
+
+'a' en pahali 'e' en ucuz. 
+
+menuler en ucuzdan en pahaliya dogru gitmeli

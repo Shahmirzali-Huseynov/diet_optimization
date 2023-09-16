@@ -1,0 +1,252 @@
+1. Hafta Menüleri
+
+Zorunlu yemek 55 (Etli Nohut) hafta 1, gün 1 için eklendi.
+Status: Optimal
+ID: 118, Yemek: Havuçlu Pilav, Fiyat: e
+ID: 208, Yemek: Salatalık turşusu, Fiyat: e
+ID: 55, Yemek: Etli Nohut, Fiyat: c
+ID: 94, Yemek: Pirinçli Kabak Çorba, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 431.6
+Karbonhidrat: 51.4
+Protein: 21.3
+Yağ: 15.100000000000001
+Lif: 11.4
+---
+Status: Optimal
+ID: 110, Yemek: Kıymalı Tepsi Böreği, Fiyat: e
+ID: 184, Yemek: Karpuz, Fiyat: e
+ID: 71, Yemek: Kremalı Domates Çorbası, Fiyat: e
+ID: 97, Yemek: Yulaf Özü Çorbası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 340.5
+Karbonhidrat: 37.2
+Protein: 10.4
+Yağ: 16.4
+Lif: 3.7
+---
+Status: Optimal
+ID: 10, Yemek: Hindi Izgara Köfte, Fiyat: d
+ID: 112, Yemek: Nohutlu Bulgur Pilavı, Fiyat: e
+ID: 157, Yemek: Marul Salatası, Fiyat: e
+ID: 95, Yemek: Sütlü Arpa Şehriye Çorbası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 312.6
+Karbonhidrat: 26.1
+Protein: 23.5
+Yağ: 12.5
+Lif: 4.3
+---
+Status: Optimal
+ID: 100, Yemek: Sebzeli Kırmızı Mercimek Çorbası, Fiyat: e
+ID: 160, Yemek: Yoğurtlu Semizotu Salatası, Fiyat: e
+ID: 36, Yemek: Sebzeli Tavuk Sote, Fiyat: d
+ID: 93, Yemek: Salçalı Pirinç Çorbası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 368.2
+Karbonhidrat: 33.0
+Protein: 24.8
+Yağ: 14.700000000000001
+Lif: 6.300000000000001
+---
+Status: Optimal
+ID: 124, Yemek: Zeytinyağlı Yaprak Sarma, Fiyat: e
+ID: 182, Yemek: Mandalina, Fiyat: e
+ID: 29, Yemek: Tavuk Göğüs Şinitzel, Fiyat: d
+ID: 99, Yemek: Ispanaklı Lahana Çorbası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 427.09999999999997
+Karbonhidrat: 51.8
+Protein: 22.3
+Yağ: 13.7
+Lif: 6.0
+---
+2. Hafta Menüleri
+
+Zorunlu yemek 56 (Etli Kuru Fasulye) hafta 2, gün 1 için eklendi.
+Status: Optimal
+ID: 117, Yemek: Domatesli Pilav, Fiyat: e
+ID: 161, Yemek: Börülce Salatası, Fiyat: e
+ID: 56, Yemek: Etli Kuru Fasulye, Fiyat: c
+ID: 83, Yemek: Yayla Çorbası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 478.0
+Karbonhidrat: 59.10000000000001
+Protein: 25.2
+Yağ: 15.200000000000001
+Lif: 6.3999999999999995
+---
+Status: Optimal
+ID: 106, Yemek: Ispanaklı Yufka Böreği, Fiyat: e
+ID: 196, Yemek: Balkabağı Tatlısı, Fiyat: e
+ID: 37, Yemek: Tavuk sote, Fiyat: d
+ID: 76, Yemek: Domatesli Pirinç Çorbası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 425.4
+Karbonhidrat: 49.2
+Protein: 25.299999999999997
+Yağ: 13.600000000000001
+Lif: 5.3
+---
+Status: Optimal
+ID: 127, Yemek: Zeytinyağlı Pırasa, Fiyat: e
+ID: 198, Yemek: Sütlü İrmik Tatlısı, Fiyat: e
+ID: 27, Yemek: Tavuk Pane, Fiyat: d
+ID: 81, Yemek: Patates Çorbası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 475.49999999999994
+Karbonhidrat: 53.8
+Protein: 20.0
+Yağ: 19.6
+Lif: 4.7
+---
+Status: Optimal
+ID: 132, Yemek: Sebze Kızartması, Fiyat: e
+ID: 175, Yemek: Kırmızı Elma, Fiyat: e
+ID: 32, Yemek: Tavuk ciğeri, Fiyat: d
+ID: 98, Yemek: Şehriye Çorbası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 406.99999999999994
+Karbonhidrat: 30.3
+Protein: 26.4
+Yağ: 19.7
+Lif: 4.7
+---
+Status: Optimal
+ID: 128, Yemek: Zeytinyağlı Kereviz, Fiyat: e
+ID: 176, Yemek: Yeşil Elma, Fiyat: e
+ID: 61, Yemek: Etli lahana sarma, Fiyat: c
+ID: 87, Yemek: Bulgur Çorbası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 399.5
+Karbonhidrat: 48.0
+Protein: 6.300000000000001
+Yağ: 20.0
+Lif: 11.1
+---
+3. Hafta Menüleri
+
+Zorunlu yemek 129 (Zeytinyağlı Barbunya) hafta 3, gün 1 için eklendi.
+Status: Optimal
+ID: 129, Yemek: Zeytinyağlı Barbunya, Fiyat: e
+ID: 177, Yemek: Tarbzon hurması, Fiyat: e
+ID: 64, Yemek: İçli Köfte, Fiyat: c
+ID: 82, Yemek: Un Çorbası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 466.70000000000005
+Karbonhidrat: 50.9
+Protein: 10.2
+Yağ: 24.400000000000002
+Lif: 8.2
+---
+Status: Optimal
+ID: 109, Yemek: Talaş Böreği, Fiyat: e
+ID: 178, Yemek: Armut, Fiyat: e
+ID: 60, Yemek: Etli Domates Dolması, Fiyat: c
+ID: 79, Yemek: Sebze Çorbası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 451.09999999999997
+Karbonhidrat: 59.3
+Protein: 11.5
+Yağ: 18.799999999999997
+Lif: 6.4
+---
+Status: Optimal
+ID: 108, Yemek: Peynirli Su Böreği, Fiyat: e
+ID: 209, Yemek: Lahana Turşusu, Fiyat: e
+ID: 48, Yemek: Patlıcan Musakka, Fiyat: c
+ID: 88, Yemek: Domates Çorbası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 412.0
+Karbonhidrat: 29.700000000000003
+Protein: 15.100000000000001
+Yağ: 24.9
+Lif: 7.0
+---
+Status: Optimal
+ID: 144, Yemek: İmambayıldı, Fiyat: e
+ID: 165, Yemek: Yoğurtlu Kereviz Salatası, Fiyat: e
+ID: 40, Yemek: Patatesli Yumurta, Fiyat: c
+ID: 77, Yemek: Düğün Çorbası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 463.4
+Karbonhidrat: 32.4
+Protein: 21.0
+Yağ: 27.3
+Lif: 8.4
+---
+Status: Optimal
+ID: 136, Yemek: Kaşar Peynirli Makarna, Fiyat: e
+ID: 153, Yemek: Havuç Salatası, Fiyat: e
+ID: 45, Yemek: Etli Taze Fasulye, Fiyat: c
+ID: 89, Yemek: Ekşili Çorba, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 561.3
+Karbonhidrat: 58.099999999999994
+Protein: 22.599999999999998
+Yağ: 26.0
+Lif: 10.8
+---
+4. Hafta Menüleri
+
+Zorunlu yemek 164 (Mercimek Salatası) hafta 4, gün 1 için eklendi.
+Status: Optimal
+ID: 125, Yemek: Zeytinyağlı Taze Fasulye, Fiyat: e
+ID: 164, Yemek: Mercimek Salatası, Fiyat: e
+ID: 43, Yemek: Etli Yaz Türlüsü, Fiyat: c
+ID: 78, Yemek: Ezogelin Çorbası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 491.70000000000005
+Karbonhidrat: 47.099999999999994
+Protein: 22.4
+Yağ: 23.400000000000002
+Lif: 10.4
+---
+Status: Optimal
+ID: 143, Yemek: Milföy Böreği, Fiyat: e
+ID: 183, Yemek: Üzüm, Fiyat: e
+ID: 49, Yemek: Karnıyarık, Fiyat: c
+ID: 92, Yemek: Nohutlu Pirinç Çorbası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 537.1
+Karbonhidrat: 61.8
+Protein: 16.2
+Yağ: 24.299999999999997
+Lif: 10.3
+---
+Status: Optimal
+ID: 131, Yemek: Zeytinyağlı Mantar, Fiyat: e
+ID: 186, Yemek: Mürdüm Eriği, Fiyat: e
+ID: 62, Yemek: Kıymalı Yaprak Sarma, Fiyat: c
+ID: 75, Yemek: Bezelye Çorbası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 425.09999999999997
+Karbonhidrat: 34.099999999999994
+Protein: 19.700000000000003
+Yağ: 22.6
+Lif: 11.299999999999999
+---
+Status: Optimal
+ID: 113, Yemek: Pirinç Pilavı, Fiyat: e
+ID: 179, Yemek: Muz, Fiyat: e
+ID: 50, Yemek: Kıymalı Ispanak, Fiyat: c
+ID: 74, Yemek: Mercimek Çorbası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 481.8
+Karbonhidrat: 59.7
+Protein: 20.0
+Yağ: 17.3
+Lif: 7.3999999999999995
+---
+Status: Optimal
+ID: 123, Yemek: Zeytinyağlı Biber Dolma, Fiyat: e
+ID: 166, Yemek: Çoban Salata, Fiyat: e
+ID: 42, Yemek: Etli Kış Türlüsü, Fiyat: c
+ID: 80, Yemek: İşkembe Çorbası, Fiyat: e
+Toplam Besin Değerleri:
+Enerji: 489.6
+Karbonhidrat: 38.3
+Protein: 21.3
+Yağ: 27.200000000000003
+Lif: 6.8999999999999995
+---
