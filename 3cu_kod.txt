@@ -1,0 +1,134 @@
+import pandas as pd
+import pulp as pl
+from collections import defaultdict
+import random
+
+mandatory_dish_names = ["Etli Nohut", "Etli Kuru Fasulye", "Zeytinyağlı Barbunya", "Börülce Salatası", "Mercimek Salatası", "Piyaz"]
+
+# def find_mandatory_dish_id(df, used_mandatory_dishes):
+#     unused_mandatory_dishes = [dish_name for dish_name in mandatory_dish_names if dish_name not in used_mandatory_dishes]
+#     print(unused_mandatory_dishes)
+#     for dish_name in mandatory_dish_names:
+#         chosen_dish = random.choice(unused_mandatory_dishes)
+#         dish_row = df[df['Yiyecek adı'] == chosen_dish]
+#         print(f"chosen_dish {chosen_dish}")
+#         print(f"dish_row {dish_row}")
+#         if not dish_row.empty:
+#             dish_id = dish_row.iloc[0]['ID']
+#             if dish_id not in used_mandatory_dishes:
+#                 print(f"dish_id {dish_id} dish_name ({dish_name})")
+#                 return dish_id, chosen_dish
+#     return None, None
+
+def find_mandatory_dish_id(df, used_mandatory_dishes):
+    unused_mandatory_dishes = [dish_name for dish_name in mandatory_dish_names if dish_name not in used_mandatory_dishes]
+    if not unused_mandatory_dishes:
+        return None, None
+
+    chosen_dish = random.choice(unused_mandatory_dishes)
+    dish_row = df[df['Yiyecek adı'] == chosen_dish]
+    
+    if not dish_row.empty:
+        dish_id = dish_row.iloc[0]['ID']
+        return dish_id, chosen_dish
+    else:
+        return None, None
+
+df1 = pd.read_csv("set1_new.csv")
+df2 = pd.read_csv("set2.csv")
+
+age = 20
+gender = "Kadın"
+
+limits = df2[(df2["Cinsiyet"] == gender) & (df2["Yaş Grubu"].apply(lambda x: age in range(*map(int, x.split('-')))))].iloc[0]
+mandatory_dish_names = ["Etli Nohut", "Etli Kuru Fasulye", "Zeytinyağlı Barbunya", "Börülce Salatası", "Mercimek Salatası", "Piyaz"]
+mandatory_dish_ids = [df1[df1['Yiyecek adı'] == name].iloc[0]['ID'] for name in mandatory_dish_names if not df1[df1['Yiyecek adı'] == name].empty]
+
+categories = {
+    "main": range(1, 72),
+    "soup": range(72, 100),
+    "half_main": range(100, 150),
+    "dessert_salad": range(150, 210),
+}
+
+price_conversion = {'a': 5, 'b': 4, 'c': 3, 'd': 2, 'e': 1}
+
+used_dishes = set()
+used_mandatory_dishes = set()
+
+
+for week in range(1, 5):
+    print(f"{week}. Hafta Menüleri\n")
+    
+    mandatory_dish_day = random.choice(range(1, 6))
+    mandatory_dish_id, mandatory_dish_name = None, None
+    
+    for day in range(1, 6):
+        prob = pl.LpProblem(f"Menu_Optimization_{week}_{day}", pl.LpMinimize)
+        available_dishes = list(set(df1['ID']) - used_dishes)
+        dish_vars = pl.LpVariable.dicts("Dish", available_dishes, 0, 1, pl.LpBinary)
+
+        prob += pl.lpSum([price_conversion[df1.set_index("ID").loc[i]["Fiyat"]] * dish_vars[i] for i in available_dishes])
+        
+        for nutrient in ["Enerji", "Karbonhidrat", "Protein", "Yağ", "Lif"]:
+            lower_limit = float(limits[nutrient].split('-')[0])
+            upper_limit = float(limits[nutrient].split('-')[1])
+            
+            prob += pl.LpConstraint(
+                e=pl.lpSum([df1.set_index("ID").loc[i][nutrient] * dish_vars[i] for i in available_dishes]),
+                sense=pl.LpConstraintGE,
+                name=f"{nutrient}_lower_bound",
+                rhs=lower_limit
+            )
+            
+            prob += pl.LpConstraint(
+                e=pl.lpSum([df1.set_index("ID").loc[i][nutrient] * dish_vars[i] for i in available_dishes]),
+                sense=pl.LpConstraintLE,
+                name=f"{nutrient}_upper_bound",
+                rhs=upper_limit
+            )
+
+        for cat, rng in categories.items():
+            prob += pl.lpSum([dish_vars[i] for i in available_dishes if i in rng]) == 1
+
+        if day == mandatory_dish_day:
+            while True:
+                mandatory_dish_id, mandatory_dish_name = find_mandatory_dish_id(df1, used_mandatory_dishes)
+                if mandatory_dish_id is None:
+                    print("Uygun zorunlu yemek kalmadı.")
+                    break
+                if mandatory_dish_id not in used_mandatory_dishes:
+                    prob += dish_vars[mandatory_dish_id] == 1
+                    used_mandatory_dishes.add(mandatory_dish_id)
+                    print(f"Zorunlu yemek {mandatory_dish_id} ({mandatory_dish_name}) hafta {week}, gün {day} için eklendi.")
+                    break
+                else:
+                    print(f"{mandatory_dish_id} ({mandatory_dish_name}) bu menü için uygun değil, başka bir yemek denenecek.")
+                    # used_mandatory_dishes.add(mandatory_dish_name)
+
+
+
+
+        
+        prob.solve(pl.PULP_CBC_CMD(msg=False))
+        print("Status:", pl.LpStatus[prob.status])
+
+        print(f"{day}. Gün Menüsü:")
+
+        total_nutrients = defaultdict(float)
+        
+        for v in prob.variables():
+            if v.varValue == 1:
+                dish_id = int(v.name.split('_')[1])
+                dish_info = df1.set_index("ID").loc[dish_id]
+                print(f"ID: {dish_id}, Yemek: {dish_info['Yiyecek adı']}, Fiyat: {dish_info['Fiyat']}")
+                used_dishes.add(dish_id)
+                
+                for nutrient in ["Enerji", "Karbonhidrat", "Protein", "Yağ", "Lif"]:
+                    total_nutrients[nutrient] += dish_info[nutrient]
+        
+        print("Toplam Besin Değerleri:")
+        for nutrient, value in total_nutrients.items():
+            print(f"{nutrient}: {value}")
+        
+        print("---")
