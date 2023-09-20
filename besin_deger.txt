@@ -1,12 +1,42 @@
+Zorunlu yemekler: ['Etli Nohut', 'Börülce Salatası', 'Etli Kuru Fasulye', 'Mercimek Salatası']
 1. Hafta Menüleri
 
-Zorunlu yemek 55 (Etli Nohut) hafta 1, gün 1 için eklendi.
 Status: Optimal
+Menü kısıtlamalara uygundur.
 1. Gün Menüsü:
-ID: 123, Yemek: Zeytinyağlı Biber Dolma, Fiyat: e
-ID: 198, Yemek: Sütlü İrmik Tatlısı, Fiyat: e
-ID: 55, Yemek: Etli Nohut, Fiyat: c
-ID: 90, Yemek: Kelle Paça Çorbası, Fiyat: e
+ID: 134, Yemek: Fırında Makarna, Fiyat: e, Renk: sarı, Kıvam: katı
+ID: 186, Yemek: Mürdüm Eriği, Fiyat: e, Renk: kırmızı, Kıvam: katı
+ID: 71, Yemek: Kremalı Domates Çorbası, Fiyat: e, Renk: kırmızı, Kıvam: sıvı
+ID: 80, Yemek: İşkembe Çorbası, Fiyat: e, Renk: beyaz, Kıvam: sıvı
+Toplam Besin Değerleri:
+Enerji: 584.2
+Karbonhidrat: 60.3
+Protein: 23.2
+Yağ: 26.6
+Lif: 8.4
+---
+Status: Optimal
+Menü kısıtlamalara uygundur.
+2. Gün Menüsü:
+ID: 128, Yemek: Zeytinyağlı Kereviz, Fiyat: e, Renk: beyaz, Kıvam: yumuşak
+ID: 199, Yemek: İrmik Helvası, Fiyat: e, Renk: kahverengi, Kıvam: yumuşak
+ID: 36, Yemek: Sebzeli Tavuk Sote, Fiyat: d, Renk: kırmızı, Kıvam: katı
+ID: 97, Yemek: Yulaf Özü Çorbası, Fiyat: e, Renk: beyaz, Kıvam: sıvı
+Toplam Besin Değerleri:
+Enerji: 597.5
+Karbonhidrat: 62.2
+Protein: 25.299999999999997
+Yağ: 27.1
+Lif: 9.0
+---
+Zorunlu yemek 55 (Etli Nohut) hafta 1, gün 3 için eklendi.
+Status: Optimal
+Menü kısıtlamalara uygundur.
+3. Gün Menüsü:
+ID: 123, Yemek: Zeytinyağlı Biber Dolma, Fiyat: e, Renk: yeşil, Kıvam: katı
+ID: 198, Yemek: Sütlü İrmik Tatlısı, Fiyat: e, Renk: beyaz, Kıvam: yumuşak
+ID: 55, Yemek: Etli Nohut, Fiyat: c, Renk: kırmızı, Kıvam: yumuşak
+ID: 90, Yemek: Kelle Paça Çorbası, Fiyat: e, Renk: beyaz, Kıvam: sıvı
 Toplam Besin Değerleri:
 Enerji: 588.1
 Karbonhidrat: 58.900000000000006
@@ -15,118 +45,115 @@ Yağ: 27.700000000000003
 Lif: 11.6
 ---
 Status: Optimal
-2. Gün Menüsü:
-ID: 134, Yemek: Fırında Makarna, Fiyat: e
-ID: 174, Yemek: Piyaz, Fiyat: e
-ID: 71, Yemek: Kremalı Domates Çorbası, Fiyat: e
-ID: 99, Yemek: Ispanaklı Lahana Çorbası, Fiyat: e
-Toplam Besin Değerleri:
-Enerji: 578.1999999999999
-Karbonhidrat: 61.9
-Protein: 26.4
-Yağ: 24.599999999999998
-Lif: 9.200000000000001
----
-Status: Optimal
-3. Gün Menüsü:
-ID: 102, Yemek: Serpme Börek, Fiyat: e
-ID: 178, Yemek: Armut, Fiyat: e
-ID: 29, Yemek: Tavuk Göğüs Şinitzel, Fiyat: d
-ID: 89, Yemek: Ekşili Çorba, Fiyat: e
-Toplam Besin Değerleri:
-Enerji: 583.1999999999999
-Karbonhidrat: 59.1
-Protein: 24.5
-Yağ: 27.9
-Lif: 8.5
----
-Status: Optimal
+Menü kısıtlamalara uygundur.
 4. Gün Menüsü:
-ID: 133, Yemek: Sebze Yemeği, Fiyat: e
-ID: 158, Yemek: Patates Salatası, Fiyat: e
-ID: 27, Yemek: Tavuk Pane, Fiyat: d
-ID: 78, Yemek: Ezogelin Çorbası, Fiyat: e
+ID: 130, Yemek: Zeytinyağlı Enginar, Fiyat: e, Renk: beyaz, Kıvam: yumuşak
+ID: 196, Yemek: Balkabağı Tatlısı, Fiyat: e, Renk: turuncu, Kıvam: katı
+ID: 29, Yemek: Tavuk Göğüs Şinitzel, Fiyat: d, Renk: sarı, Kıvam: katı
+ID: 76, Yemek: Domatesli Pirinç Çorbası, Fiyat: e, Renk: kırmızı, Kıvam: sıvı
 Toplam Besin Değerleri:
-Enerji: 592.4
-Karbonhidrat: 61.99999999999999
-Protein: 26.200000000000003
-Yağ: 26.0
-Lif: 9.1
+Enerji: 587.5
+Karbonhidrat: 62.3
+Protein: 21.9
+Yağ: 27.299999999999997
+Lif: 11.8
 ---
 Status: Optimal
+Menü kısıtlamalara uygundur.
 5. Gün Menüsü:
-ID: 10, Yemek: Hindi Izgara Köfte, Fiyat: d
-ID: 130, Yemek: Zeytinyağlı Enginar, Fiyat: e
-ID: 204, Yemek: Keşkül, Fiyat: e
-ID: 88, Yemek: Domates Çorbası, Fiyat: e
+ID: 129, Yemek: Zeytinyağlı Barbunya, Fiyat: e, Renk: kahverengi, Kıvam: yumuşak
+ID: 153, Yemek: Havuç Salatası, Fiyat: e, Renk: turuncu, Kıvam: katı
+ID: 27, Yemek: Tavuk Pane, Fiyat: d, Renk: sarı, Kıvam: katı
+ID: 92, Yemek: Nohutlu Pirinç Çorbası, Fiyat: e, Renk: beyaz, Kıvam: sıvı
 Toplam Besin Değerleri:
-Enerji: 591.5999999999999
-Karbonhidrat: 58.7
-Protein: 26.3
-Yağ: 27.5
-Lif: 11.2
+Enerji: 579.8
+Karbonhidrat: 56.4
+Protein: 25.4
+Yağ: 27.6
+Lif: 11.9
 ---
 2. Hafta Menüleri
 
+Zorunlu yemek 161 (Börülce Salatası) hafta 2, gün 1 için eklendi.
 Status: Optimal
+Menü kısıtlamalara uygundur.
 1. Gün Menüsü:
-ID: 138, Yemek: Havuç Soslu Makarna, Fiyat: e
-ID: 151, Yemek: Domatesli Patlıcan Salatası, Fiyat: e
-ID: 36, Yemek: Sebzeli Tavuk Sote, Fiyat: d
-ID: 81, Yemek: Patates Çorbası, Fiyat: e
+ID: 139, Yemek: Mantar Soslu Makarna, Fiyat: e, Renk: sarı, Kıvam: katı
+ID: 161, Yemek: Börülce Salatası, Fiyat: e, Renk: yeşil, Kıvam: katı
+ID: 49, Yemek: Karnıyarık, Fiyat: c, Renk: kahverengi, Kıvam: yumuşak
+ID: 94, Yemek: Pirinçli Kabak Çorba, Fiyat: e, Renk: yeşil, Kıvam: sıvı
 Toplam Besin Değerleri:
-Enerji: 576.9000000000001
-Karbonhidrat: 55.0
-Protein: 26.099999999999998
-Yağ: 27.299999999999997
-Lif: 8.1
+Enerji: 583.7
+Karbonhidrat: 59.699999999999996
+Protein: 23.1
+Yağ: 27.6
+Lif: 8.2
 ---
-Zorunlu yemek 56 (Etli Kuru Fasulye) hafta 2, gün 2 için eklendi.
 Status: Optimal
+Menü kısıtlamalara uygundur.
 2. Gün Menüsü:
-ID: 129, Yemek: Zeytinyağlı Barbunya, Fiyat: e
-ID: 185, Yemek: kavun, Fiyat: e
-ID: 56, Yemek: Etli Kuru Fasulye, Fiyat: c
-ID: 79, Yemek: Sebze Çorbası, Fiyat: e
+ID: 132, Yemek: Sebze Kızartması, Fiyat: e, Renk: yeşil, Kıvam: katı
+ID: 204, Yemek: Keşkül, Fiyat: e, Renk: beyaz, Kıvam: yumuşak
+ID: 51, Yemek: Kıymalı Bezelye, Fiyat: c, Renk: kırmızı, Kıvam: yumuşak
+ID: 87, Yemek: Bulgur Çorbası, Fiyat: e, Renk: kahverengi, Kıvam: sıvı
 Toplam Besin Değerleri:
-Enerji: 596.0
-Karbonhidrat: 62.099999999999994
-Protein: 23.5
-Yağ: 27.699999999999996
-Lif: 8.899999999999999
+Enerji: 576.2
+Karbonhidrat: 60.8
+Protein: 20.6
+Yağ: 27.5
+Lif: 11.6
 ---
 Status: Optimal
+Menü kısıtlamalara uygundur.
 3. Gün Menüsü:
-ID: 148, Yemek: Kabak Bayıldı, Fiyat: e
-ID: 195, Yemek: Ayva Tatlısı, Fiyat: e
-ID: 37, Yemek: Tavuk sote, Fiyat: d
-ID: 82, Yemek: Un Çorbası, Fiyat: e
+ID: 149, Yemek: Kabak Kalye, Fiyat: e, Renk: yeşil, Kıvam: yumuşak
+ID: 195, Yemek: Ayva Tatlısı, Fiyat: e, Renk: kırmızı, Kıvam: katı
+ID: 62, Yemek: Kıymalı Yaprak Sarma, Fiyat: c, Renk: yeşil, Kıvam: katı
+ID: 78, Yemek: Ezogelin Çorbası, Fiyat: e, Renk: kırmızı, Kıvam: sıvı
 Toplam Besin Değerleri:
-Enerji: 591.7
-Karbonhidrat: 57.9
-Protein: 25.8
-Yağ: 27.9
-Lif: 9.799999999999999
+Enerji: 588.5
+Karbonhidrat: 61.3
+Protein: 23.200000000000003
+Yağ: 27.3
+Lif: 9.9
 ---
 Status: Optimal
+Menü kısıtlamalara uygundur.
 4. Gün Menüsü:
-ID: 135, Yemek: Sade Makarna, Fiyat: e
-ID: 156, Yemek: Kıvırcık Salatası, Fiyat: e
-ID: 54, Yemek: Kıymalı Patates, Fiyat: c
-ID: 75, Yemek: Bezelye Çorbası, Fiyat: e
+ID: 145, Yemek: Mercimekli Kabak Yemeği, Fiyat: e, Renk: yeşil, Kıvam: yumuşak
+ID: 189, Yemek: Lokma, Fiyat: e, Renk: kahverengi, Kıvam: katı
+ID: 57, Yemek: Etli Bamya , Fiyat: c, Renk: kırmızı, Kıvam: yumuşak
+ID: 74, Yemek: Mercimek Çorbası, Fiyat: e, Renk: kahverengi, Kıvam: sıvı
 Toplam Besin Değerleri:
-Enerji: 589.1
-Karbonhidrat: 59.5
-Protein: 23.199999999999996
-Yağ: 27.999999999999996
-Lif: 9.2
+Enerji: 578.6999999999999
+Karbonhidrat: 61.7
+Protein: 26.3
+Yağ: 24.6
+Lif: 8.6
 ---
 Status: Optimal
+Menü kısıtlamalara uygundur.
 5. Gün Menüsü:
-ID: 126, Yemek: Zeytinyağlı Bakla, Fiyat: e
-ID: 194, Yemek: Baklava, Fiyat: e
-ID: 64, Yemek: İçli Köfte, Fiyat: c
-ID: 84, Yemek: Yeşil Mercimek Çorbası, Fiyat: e
+ID: 103, Yemek: Patatesli Börek, Fiyat: e, Renk: sarı, Kıvam: katı
+ID: 209, Yemek: Lahana Turşusu, Fiyat: e, Renk: beyaz, Kıvam: katı
+ID: 42, Yemek: Etli Kış Türlüsü, Fiyat: c, Renk: kırmızı, Kıvam: yumuşak
+ID: 89, Yemek: Ekşili Çorba, Fiyat: e, Renk: kahverengi, Kıvam: sıvı
+Toplam Besin Değerleri:
+Enerji: 577.4
+Karbonhidrat: 58.699999999999996
+Protein: 22.7
+Yağ: 26.599999999999998
+Lif: 11.400000000000002
+---
+3. Hafta Menüleri
+
+Status: Optimal
+Menü kısıtlamalara uygundur.
+1. Gün Menüsü:
+ID: 126, Yemek: Zeytinyağlı Bakla, Fiyat: e, Renk: yeşil, Kıvam: yumuşak
+ID: 194, Yemek: Baklava, Fiyat: e, Renk: kahverengi, Kıvam: katı
+ID: 64, Yemek: İçli Köfte, Fiyat: c, Renk: kahverengi, Kıvam: katı
+ID: 84, Yemek: Yeşil Mercimek Çorbası, Fiyat: e, Renk: yeşil, Kıvam: sıvı
 Toplam Besin Değerleri:
 Enerji: 582.3000000000001
 Karbonhidrat: 60.5
@@ -134,140 +161,134 @@ Protein: 21.299999999999997
 Yağ: 27.999999999999996
 Lif: 8.2
 ---
-3. Hafta Menüleri
-
+Zorunlu yemek 56 (Etli Kuru Fasulye) hafta 3, gün 2 için eklendi.
 Status: Optimal
-1. Gün Menüsü:
-ID: 143, Yemek: Milföy Böreği, Fiyat: e
-ID: 186, Yemek: Mürdüm Eriği, Fiyat: e
-ID: 63, Yemek: Şehriyeli Güveç, Fiyat: c
-ID: 87, Yemek: Bulgur Çorbası, Fiyat: e
+Menü kısıtlamalara uygundur.
+2. Gün Menüsü:
+ID: 118, Yemek: Havuçlu Pilav, Fiyat: e, Renk: beyaz, Kıvam: katı
+ID: 151, Yemek: Domatesli Patlıcan Salatası, Fiyat: e, Renk: kırmızı, Kıvam: yumuşak
+ID: 56, Yemek: Etli Kuru Fasulye, Fiyat: c, Renk: kırmızı, Kıvam: yumuşak
+ID: 75, Yemek: Bezelye Çorbası, Fiyat: e, Renk: yeşil, Kıvam: sıvı
 Toplam Besin Değerleri:
-Enerji: 595.1
-Karbonhidrat: 60.599999999999994
-Protein: 25.9
-Yağ: 26.699999999999996
-Lif: 8.8
+Enerji: 579.3000000000001
+Karbonhidrat: 55.599999999999994
+Protein: 25.6
+Yağ: 27.9
+Lif: 9.299999999999999
 ---
 Status: Optimal
-2. Gün Menüsü:
-ID: 136, Yemek: Kaşar Peynirli Makarna, Fiyat: e
-ID: 209, Yemek: Lahana Turşusu, Fiyat: e
-ID: 61, Yemek: Etli lahana sarma, Fiyat: c
-ID: 73, Yemek: Tavuk Etli Çorba, Fiyat: e
+Menü kısıtlamalara uygundur.
+3. Gün Menüsü:
+ID: 133, Yemek: Sebze Yemeği, Fiyat: e, Renk: kırmızı, Kıvam: yumuşak
+ID: 201, Yemek: Tulumba Tatlısı, Fiyat: e, Renk: kahverengi, Kıvam: katı
+ID: 54, Yemek: Kıymalı Patates, Fiyat: c, Renk: kahverengi, Kıvam: katı
+ID: 91, Yemek: Kremalı Mantar Çorbası, Fiyat: e, Renk: beyaz, Kıvam: sıvı
 Toplam Besin Değerleri:
-Enerji: 581.7
-Karbonhidrat: 55.29999999999999
-Protein: 25.1
+Enerji: 590.1
+Karbonhidrat: 60.8
+Protein: 23.5
 Yağ: 27.5
 Lif: 8.0
 ---
 Status: Optimal
-3. Gün Menüsü:
-ID: 137, Yemek: Domates Soslu Makarna, Fiyat: e
-ID: 153, Yemek: Havuç Salatası, Fiyat: e
-ID: 42, Yemek: Etli Kış Türlüsü, Fiyat: c
-ID: 93, Yemek: Salçalı Pirinç Çorbası, Fiyat: e
-Toplam Besin Değerleri:
-Enerji: 577.1999999999999
-Karbonhidrat: 57.7
-Protein: 23.3
-Yağ: 27.6
-Lif: 9.3
----
-Status: Optimal
+Menü kısıtlamalara uygundur.
 4. Gün Menüsü:
-ID: 147, Yemek: Zeytinyağlı Fava, Fiyat: e
-ID: 199, Yemek: İrmik Helvası, Fiyat: e
-ID: 52, Yemek: Kıymalı Karnabahar, Fiyat: c
-ID: 97, Yemek: Yulaf Özü Çorbası, Fiyat: e
+ID: 100, Yemek: Sebzeli Kırmızı Mercimek Çorbası, Fiyat: e, Renk: kahverengi, Kıvam: sıvı
+ID: 202, Yemek: Muhallebi, Fiyat: e, Renk: beyaz, Kıvam: yumuşak
+ID: 53, Yemek: Kıymalı Kapuska, Fiyat: c, Renk: kırmızı, Kıvam: yumuşak
+ID: 79, Yemek: Sebze Çorbası, Fiyat: e, Renk: yeşil, Kıvam: sıvı
 Toplam Besin Değerleri:
-Enerji: 578.4
-Karbonhidrat: 59.400000000000006
-Protein: 21.9
-Yağ: 27.9
-Lif: 11.1
+Enerji: 576.4
+Karbonhidrat: 61.900000000000006
+Protein: 22.3
+Yağ: 26.299999999999997
+Lif: 8.2
 ---
-129 (Zeytinyağlı Barbunya) bu menü için uygun değil, başka bir yemek denenecek.
-Zorunlu yemek 161 (Börülce Salatası) hafta 3, gün 5 için eklendi.
 Status: Optimal
+Menü kısıtlamalara uygundur.
 5. Gün Menüsü:
-ID: 139, Yemek: Mantar Soslu Makarna, Fiyat: e
-ID: 161, Yemek: Börülce Salatası, Fiyat: e
-ID: 48, Yemek: Patlıcan Musakka, Fiyat: c
-ID: 91, Yemek: Kremalı Mantar Çorbası, Fiyat: e
+ID: 140, Yemek: Patlıcan Soslu Makarna, Fiyat: e, Renk: sarı, Kıvam: katı
+ID: 165, Yemek: Yoğurtlu Kereviz Salatası, Fiyat: e, Renk: beyaz, Kıvam: yumuşak
+ID: 61, Yemek: Etli lahana sarma, Fiyat: c, Renk: kırmızı, Kıvam: katı
+ID: 73, Yemek: Tavuk Etli Çorba, Fiyat: e, Renk: beyaz, Kıvam: sıvı
 Toplam Besin Değerleri:
-Enerji: 593.6
-Karbonhidrat: 58.699999999999996
-Protein: 25.9
-Yağ: 27.9
-Lif: 8.9
+Enerji: 578.7
+Karbonhidrat: 58.300000000000004
+Protein: 23.9
+Yağ: 27.0
+Lif: 10.3
 ---
 4. Hafta Menüleri
 
-Zorunlu yemek 164 (Mercimek Salatası) hafta 4, gün 1 için eklendi.
 Status: Optimal
+Menü kısıtlamalara uygundur.
 1. Gün Menüsü:
-ID: 118, Yemek: Havuçlu Pilav, Fiyat: e
-ID: 164, Yemek: Mercimek Salatası, Fiyat: e
-ID: 41, Yemek: Menemen, Fiyat: c
-ID: 74, Yemek: Mercimek Çorbası, Fiyat: e
+ID: 120, Yemek: Sebzeli Pilav, Fiyat: e, Renk: beyaz, Kıvam: katı
+ID: 185, Yemek: kavun, Fiyat: e, Renk: sarı, Kıvam: katı
+ID: 52, Yemek: Kıymalı Karnabahar, Fiyat: c, Renk: kırmızı, Kıvam: yumuşak
+ID: 85, Yemek: Yoğurt Çorbası, Fiyat: e, Renk: beyaz, Kıvam: sıvı
 Toplam Besin Değerleri:
-Enerji: 584.1
-Karbonhidrat: 58.3
-Protein: 25.599999999999998
-Yağ: 27.2
-Lif: 9.2
----
-Status: Optimal
-2. Gün Menüsü:
-ID: 117, Yemek: Domatesli Pilav, Fiyat: e
-ID: 181, Yemek: Portakal, Fiyat: e
-ID: 51, Yemek: Kıymalı Bezelye, Fiyat: c
-ID: 85, Yemek: Yoğurt Çorbası, Fiyat: e
-Toplam Besin Değerleri:
-Enerji: 576.9
-Karbonhidrat: 58.0
-Protein: 24.5
-Yağ: 26.3
-Lif: 10.999999999999998
----
-Status: Optimal
-3. Gün Menüsü:
-ID: 149, Yemek: Kabak Kalye, Fiyat: e
-ID: 162, Yemek: Gavurdağı Salatası, Fiyat: e
-ID: 60, Yemek: Etli Domates Dolması, Fiyat: c
-ID: 92, Yemek: Nohutlu Pirinç Çorbası, Fiyat: e
-Toplam Besin Değerleri:
-Enerji: 577.4
-Karbonhidrat: 61.4
+Enerji: 591.3
+Karbonhidrat: 62.2
 Protein: 22.599999999999998
-Yağ: 26.2
-Lif: 9.7
+Yağ: 27.4
+Lif: 8.799999999999999
+---
+Zorunlu yemek 164 (Mercimek Salatası) hafta 4, gün 2 için eklendi.
+Status: Optimal
+Menü kısıtlamalara uygundur.
+2. Gün Menüsü:
+ID: 135, Yemek: Sade Makarna, Fiyat: e, Renk: sarı, Kıvam: katı
+ID: 164, Yemek: Mercimek Salatası, Fiyat: e, Renk: yeşil, Kıvam: katı
+ID: 48, Yemek: Patlıcan Musakka, Fiyat: c, Renk: kahverengi, Kıvam: yumuşak
+ID: 98, Yemek: Şehriye Çorbası, Fiyat: e, Renk: beyaz, Kıvam: sıvı
+Toplam Besin Değerleri:
+Enerji: 578.4000000000001
+Karbonhidrat: 62.099999999999994
+Protein: 21.7
+Yağ: 26.6
+Lif: 9.3
 ---
 Status: Optimal
-4. Gün Menüsü:
-ID: 103, Yemek: Patatesli Börek, Fiyat: e
-ID: 165, Yemek: Yoğurtlu Kereviz Salatası, Fiyat: e
-ID: 59, Yemek: Kıymalı Biber Dolması, Fiyat: c
-ID: 95, Yemek: Sütlü Arpa Şehriye Çorbası, Fiyat: e
+Menü kısıtlamalara uygundur.
+3. Gün Menüsü:
+ID: 138, Yemek: Havuç Soslu Makarna, Fiyat: e, Renk: sarı, Kıvam: katı
+ID: 159, Yemek: Amerikan Salatası, Fiyat: e, Renk: beyaz, Kıvam: yumuşak
+ID: 50, Yemek: Kıymalı Ispanak, Fiyat: c, Renk: yeşil, Kıvam: yumuşak
+ID: 88, Yemek: Domates Çorbası, Fiyat: e, Renk: kırmızı, Kıvam: sıvı
 Toplam Besin Değerleri:
-Enerji: 598.3000000000001
-Karbonhidrat: 60.800000000000004
-Protein: 24.3
-Yağ: 27.9
-Lif: 8.5
----
-Status: Optimal
-5. Gün Menüsü:
-ID: 144, Yemek: İmambayıldı, Fiyat: e
-ID: 197, Yemek: Hamur Tatlısı, Fiyat: e
-ID: 53, Yemek: Kıymalı Kapuska, Fiyat: c
-ID: 86, Yemek: Balık Çorbası, Fiyat: e
-Toplam Besin Değerleri:
-Enerji: 590.5
-Karbonhidrat: 62.1
-Protein: 26.1
-Yağ: 26.0
+Enerji: 576.4
+Karbonhidrat: 61.5
+Protein: 21.0
+Yağ: 26.6
 Lif: 8.6
+---
+Status: Optimal
+Menü kısıtlamalara uygundur.
+4. Gün Menüsü:
+ID: 137, Yemek: Domates Soslu Makarna, Fiyat: e, Renk: kırmızı, Kıvam: katı
+ID: 180, Yemek: Şeftali, Fiyat: e, Renk: turuncu, Kıvam: katı
+ID: 41, Yemek: Menemen, Fiyat: c, Renk: kırmızı, Kıvam: yumuşak
+ID: 99, Yemek: Ispanaklı Lahana Çorbası, Fiyat: e, Renk: yeşil, Kıvam: sıvı
+Toplam Besin Değerleri:
+Enerji: 588.4
+Karbonhidrat: 57.9
+Protein: 25.0
+Yağ: 27.9
+Lif: 8.7
+---
+Status: Optimal
+Menü kısıtlamalara uygundur.
+5. Gün Menüsü:
+ID: 144, Yemek: İmambayıldı, Fiyat: e, Renk: kırmızı, Kıvam: katı
+ID: 182, Yemek: Mandalina, Fiyat: e, Renk: turuncu, Kıvam: katı
+ID: 210, Yemek: Kakaolu Puding, Fiyat: e, Renk: kahverengi, Kıvam: yumuşak
+ID: 45, Yemek: Etli Taze Fasulye, Fiyat: c, Renk: kırmızı, Kıvam: yumuşak
+ID: 95, Yemek: Sütlü Arpa Şehriye Çorbası, Fiyat: e, Renk: beyaz, Kıvam: sıvı
+Toplam Besin Değerleri:
+Enerji: 576.5
+Karbonhidrat: 61.3
+Protein: 19.1
+Yağ: 27.5
+Lif: 8.1
 ---
